@@ -42,3 +42,5 @@ Hosting is the process of storing a website or application on a server so it can
 ## APIs
 
 An API allows different software systems to communicate and exchange data through defined rules, usually over HTTP/HTTPS. 
+# CRUD
+  CRUD stands for Create, Read, Update, and Delete, developers typically work with five core methods to handle persistent data. In database operations or REST APIs, you create, read a list, read a specific item, update, and dele
