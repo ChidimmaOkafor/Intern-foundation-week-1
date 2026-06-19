@@ -176,7 +176,8 @@ User Feedback
 ↓
 Improvements and Iteration
 
-
+# Notes
+   A workflow is a system for managing repetitive processes and tasks which occur in a particular order. They are the mechanism by which people and enterprises accomplish their work, whether manufacturing a product, providing a service, processing information or any other value-generating activity.The Agile software development lifecycle has five structured phases: Ideation, development, testing, deployment, and operations. The phases might differ depending on your chosen project management method, like Kanban or Scrum, but the end goal remains the same.
 # Conclusion
 Software engineering is a complete workflow that transforms ideas into reliable software products.
 

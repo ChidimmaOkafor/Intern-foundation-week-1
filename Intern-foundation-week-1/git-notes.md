@@ -13,6 +13,18 @@
        sends or upload your changes to Github
    git pull:
         upadate your local changes from Github 
+# Branching
+   Branching in Git allows you to create an independent line of development without affecting the main project.
+   Key concepts:
+     main → default production branch
+     Feature branch → used for isolated changes
+Merge → combining changes back into main
+# Remote Tracking
+   Remote tracking refers to linking your local repository with a remote repository (e.g., GitHub).
+   Key concepts:
+     origin → default name for remote repo
+     main → remote branch
+     upstream tracking → connects local branch to remote branch
 # Errors faced
 Error 1: Empty repository warning
      Message: “You might have cloned an empty repository”
